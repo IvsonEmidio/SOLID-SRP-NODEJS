@@ -1,5 +1,8 @@
 import planetsData from "../data/planetsData";
 
+/**
+ * Contains all business logic. 
+ */
 export default class PlanetsService {
   private data: {
     id: number;
