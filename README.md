@@ -32,5 +32,5 @@ npm start
 **Remember, this project don't need an database.**
 
 ## Routes
-- [GET] /planet/{id}
+- [GET] /api/planet/{id}
 
